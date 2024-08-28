@@ -8,7 +8,7 @@ import './css/globals.scss';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Portfolio of Tony Wilson',
+  title: 'Portfolio of Bounthiem Xaysongkham',
   description: 'Innovative Full-Stack Developer with 10 years of experience, specializing in smart contracts and web3 technologies. Adept at designing and implementing scalable applications and solutions, delivering high-quality results in collaborative environments.',
 }
 
