@@ -1,10 +1,10 @@
 export const skillsData = [
   'Unity',
-  'Unreal',
+  'After Effects',
   'C#',
   'C++',
   'JavaScript',
-  'Node JS',
+  'Next JS',
   'Python',
   'Php',
   'MongoDB',
