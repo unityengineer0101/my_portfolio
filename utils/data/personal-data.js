@@ -7,7 +7,7 @@ export const personalData = {
   phone: '+ 8562094090645',
   github: 'https://github.com/unityengineer0101',
   telegram: 'https://t.me/unityengineer0101',
-  twitter: 'https://x.com/unityengineer0101',
+  twitter: 'https://x.com/unityengineer11',
   leetcode: "https://leetcode.com/unityengineer0101",
   devUsername: "unityengineer0101",
   resume: "https://drive.google.com/file/d/1eKQ4FGnpG1WIFByjQ5hxDqtwNPyQTODs/view"
