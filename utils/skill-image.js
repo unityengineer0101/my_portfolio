@@ -76,8 +76,6 @@ import vuetifyjs from '/public/svg/skills/vuetifyjs.svg';
 import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
-import wordpress from '/public/svg/skills/node.svg';
-import wordpress from '/public/svg/skills/unreal.svg';
 
 
 export const skillsImage = (skill) => {
