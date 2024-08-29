@@ -239,10 +239,6 @@ export const skillsImage = (skill) => {
       return wolframalpha;
     case 'canva':
       return canva;
-    case 'node':
-      return node;
-    case 'unreal':
-      return unreal;
     default:
       break;
   }
